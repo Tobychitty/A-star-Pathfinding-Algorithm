@@ -1,13 +1,13 @@
-A* Pathfinding Algorithm
+# A* Pathfinding Algorithm
 
-Controls:
+## Controls:
 
 - Left Click - Place start, end or barrier nodes
 - Right Click - Remove start, end or barrier nodes
 - Space bar - Begin pathfinding visualisation
 - c - Clear grid (Once algorithm has finished)
 
-Nodes:
+## Nodes:
 
 - Red - Starting node
 - Turquoise - Ending node
